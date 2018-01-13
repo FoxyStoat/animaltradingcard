@@ -1,0 +1,43 @@
+div {
+	margin: 0 auto;
+}
+
+body {
+	line-height: 23px;
+}
+
+.trading-card {
+	width: 300px;
+	border: .1px solid #b8b8b8;
+	box-shadow: 5px 5px 5px #d3d3d3;
+	padding: 0 15px;
+}
+
+h3 {
+	color: #b75800;
+	font-size: 1.5rem;
+}
+
+.animal-img {
+	margin: 0;
+}
+
+.animal-stats-box {
+	border: .1px solid #b8b8b8;
+	margin: 10px 0;
+	padding: 0 10px;
+	text-align: justify;
+}
+
+.interesting-fact {
+	font-style: italic;
+}
+
+.animal-info {
+	list-style: none;
+	padding-left: 0;
+}
+
+li > span {
+	font-weight: bold;
+}
