@@ -8,3 +8,5 @@ Course work for Front-End Web Developer track
 Info from https://en.wikipedia.org/wiki/Red_fox
 
 ![proto-type img](assets/design-prototype.png "Prototype used from Google Udacity fewd track") 
+
+![my finished project](Screenshot.png "Finished project") 
