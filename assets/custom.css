@@ -12,7 +12,7 @@ body {
 	width: 300px;
 	border: 0.1px solid #b8b8b8;
 	box-shadow: 5px 5px 5px #d3d3d3;
-	padding: 0px 15px;
+	padding: 0 20px;
 	background: #e2bc99;
 }
 
@@ -28,13 +28,9 @@ h3 {
 .animal-stats-box {
 	border: 0.1px solid #b8b8b8;
 	margin: 10px 0;
-	padding: 0 10px;
+	padding: 0 15px;
 	text-align: justify;
 	background: #f0ddcc;
-}
-
-.interesting-fact {
-	font-style: italic;
 }
 
 .animal-info {
